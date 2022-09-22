@@ -4,5 +4,6 @@
   LinkedIn: www.linkedin.com/in/lihong-zhao-a24789224  
   Tested on: Lenovo Legion 5 Pro 16" Laptop, Windows11  
 ### Part 3.2 Firefly Testing
-
+![image](https://github.com/lihzhao14/ese5190-2022-lab1-firefly/blob/main/3.2.gif)
 ### Part 4.4 custom visualizer
+![image](https://github.com/lihzhao14/ese5190-2022-lab1-firefly/blob/main/4.4.gif)
