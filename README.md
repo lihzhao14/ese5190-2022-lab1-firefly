@@ -40,7 +40,7 @@ In this section, the proximity sensing and color sensing of the ADPS9960 sensor 
 ***  
 
 <div align=center>
-<img src="https://github.com/lihzhao14/ese5190-2022-lab1-firefly/blob/main/Image/Flowchart.drawio.png">  
+<img src="https://github.com/lihzhao14/ese5190-2022-lab1-firefly/blob/main/Image/Diagram%20of%20embedded%20system%20for%20Custom%20Visualizer.png">  
 </div>
 
 <p align="center">Figure 2. Diagram of embedded system for Custom Visualizer</>
