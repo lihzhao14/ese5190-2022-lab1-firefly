@@ -17,7 +17,7 @@ RP2040 microcontroller and APDS9960 sensor board are used in this lab. There are
 
 ### 2. Custom Visualizer
 
-In this section, the proximity sensing and color sensing of the ADPS9960 sensor are used as inputs.RP2040 is programmed to perform the following functions which are also shown as a digram in [Figure 2](https://github.com/lihzhao14/ese5190-2022-lab1-firefly/blob/main/Image/Flowchart.drawio.png):
+In this section, the proximity sensing and color sensing of the ADPS9960 sensor are used as inputs.RP2040 is programmed to perform the following functions which are also shown as a digram in Figure 2:
 * When the value of proxmity is less 50 and not equal yo 0, the LED on the RP2040 will flash with red light and "ALERT" will be typed on the screen. Otherwise, the LED will be on with green light and "SAFE" will be typed on the screen.
 * If the user's finger moves upward, the LED on the RP2040 will be on with the combination color with red, green and blue. Also, "CLEAR" will be typed on the screen and all the words showing on the screen will be cleared off.
 * If the user's finger moves downward, the LED on the RP2040 will be on with blue light and "Interrupt" will be typed on the screen. Meanwhile, the program will be interrupted.
