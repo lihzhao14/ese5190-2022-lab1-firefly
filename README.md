@@ -13,3 +13,5 @@ Figure 1
 ### 2. Custom Visualizer
 ![image](https://github.com/lihzhao14/ese5190-2022-lab1-firefly/blob/main/Image/4.4.gif)  
 Figure 2
+![image](https://github.com/lihzhao14/ese5190-2022-lab1-firefly/blob/main/Image/Digram%20of%20Coustom%20visualizer.png)
+![image]()
